@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Phung Nam Khanh
-* Student ID: BA12-092
+* Student Name: Nguyen Ngoc Minh
+* Student ID: BA9-043
 * Student Group ID: Not-for-now
