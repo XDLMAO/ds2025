@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Nguyen Ngoc Minh
 * Student ID: BA9-043
-* Student Group ID: Not-for-now
+* Student Group ID: Group 12
